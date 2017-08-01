@@ -119,7 +119,10 @@ h1 {
 	100% {background-color: lightblue; opacity: 1}
 }
 }
-
+audio {
+	display: hidden
+	;
+}
 
 
 
